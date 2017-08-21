@@ -1,0 +1,10 @@
+#!/bin/bash
+w
+pwd
+time
+ls
+ls -irth
+ps
+ps -a
+echo "BYE"
+w
